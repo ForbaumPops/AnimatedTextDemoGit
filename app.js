@@ -11,4 +11,4 @@ const intervalId = setInterval(function () {
     for (let letter of letters) {
         letter.computedStyleMap.color = randomRGB();
     }
-}, 2000),
+}, 2000);
